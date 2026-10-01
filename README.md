@@ -6,9 +6,9 @@ Open `index.html` in je browser. Er is geen installatie of internet nodig. Je vo
 
 ## Onderwerpen
 
-- **België:** rivieren, autosnelwegen, provincies, provinciehoofdsteden en gewesten
-- **Europa:** landen, hoofdsteden, zeeën, rivieren en reliëf
-- **Wereld:** oceanen, werelddelen, wereldblokken, landen, hoofdsteden, rivieren, reliëf en de grootste agglomeraties (ook met hun land)
+- **België:** 24 rivieren, 39 steden, 11 autosnelwegen, provincies, provinciehoofdsteden en gewesten
+- **Europa:** 41 landen, hun hoofdsteden, 7 zeeën, 13 rivieren en 9 reliëfeenheden
+- **Wereld:** oceanen, werelddelen, wereldblokken, 30 landen, 16 rivieren, 12 reliëfeenheden en de 24 grootste agglomeraties (ook met hun land)
 
 ## Opmerkingen
 
